@@ -1,4 +1,4 @@
-module titan
+module Titan
 
 
 using titanlib_jll
